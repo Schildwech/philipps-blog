@@ -1,0 +1,26 @@
+baseURL = 'https://example.org/'
+languageCode = 'de-de'
+title = 'Philipps Welt'
+theme = "triple-hyde"
+
+[params]
+    author = "Author"
+    description = "Hansa, Nerdstuff und alles was mir sonst noch einfällt"
+    authorimage = "/img/hugo.png"
+    dateformat = "2. Jan 2006"
+
+[params.social]
+    xing = "Philipp_Ullmann10"
+    github = "Schildwech"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Über mich"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
