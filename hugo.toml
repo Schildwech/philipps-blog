@@ -12,6 +12,7 @@ theme = "triple-hyde"
 [params.social]
     xing = "Philipp_Ullmann10"
     github = "Schildwech"
+    email = "philipp.ullmann@proton.me"
 
 ## Main Menu
 [[menu.main]]
