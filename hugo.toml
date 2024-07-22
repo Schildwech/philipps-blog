@@ -24,3 +24,6 @@ title = 'Philipps Welt'
     identifier = "about"
     weight = 300
     url = "/about/"
+
+[[markdown]]
+    editor.quickSuggestions = true
