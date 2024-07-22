@@ -16,11 +16,11 @@
       <description>Moin, ich bin Philipp.&#xA;Ich bin in meinen Zwanzigern und komme aus dem wunderschönen MV (nicht MeckPomm oder andere gruselige Wortschöpfungen!).&#xA;Wenn man hier aufwächst ist es ziemlich schwer, nicht Fan des besten Vereins der Welt zu werden. Insofern werde ich hier relativ oft meinen Senf zu Hansathemen abgeben, auch wenn der vermutlich nicht der Fundierteste ist.&#xA;Beruflich bin ich Softwareentwickler, dort mit Fokus auf dem Backend. Insofern nutze ich diesen Blog, damit ich meine Fähigkeiten im Web noch etwas aufbessern kann.</description>
     </item>
     <item>
-      <title>Helloworld</title>
+      <title>Hello World</title>
       <link>http://localhost:1313/posts/helloworld/</link>
       <pubDate>Sun, 21 Jul 2024 20:55:14 +0200</pubDate>
       <guid>http://localhost:1313/posts/helloworld/</guid>
-      <description></description>
+      <description>Dies ist mein erster Blogpost.</description>
     </item>
   </channel>
 </rss>
