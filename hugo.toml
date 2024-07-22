@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'de-de'
 title = 'Philipps Welt'
-theme = "triple-hyde"
 
 [params]
     author = "Author"

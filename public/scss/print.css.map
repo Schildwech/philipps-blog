@@ -3,9 +3,9 @@
 	"file": "print.css",
 	"sourceRoot": "C:/Users/phull/source/repos/philipps-blog",
 	"sources": [
-		"themes/triple-hyde/assets/scss/print.scss",
-		"themes/triple-hyde/assets/scss/triple-hyde/_variables.scss",
-		"themes/triple-hyde/assets/scss/triple-hyde/_print.scss"
+		"assets/scss/print.scss",
+		"assets/scss/triple-hyde/_variables.scss",
+		"assets/scss/triple-hyde/_print.scss"
 	],
 	"sourcesContent": [
 		"@import \"triple-hyde/variables\";\r\n@import 'triple-hyde/print';\r\n",
