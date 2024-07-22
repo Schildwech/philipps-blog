@@ -1,5 +1,6 @@
 /public
 /themes
 /resources
+/.vs
 .DS_Store
 .hugo_build.lock
