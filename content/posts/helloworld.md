@@ -1,8 +1,9 @@
-+++
-title= 'Hello World'
-date= 2024-07-21T20:55:14+02:00
-draft= false
-+++
+---
+title: "Hello World"
+date: 2024-07-21T20:55:14+02:00
+highlight: false
+draft: false
+---
 
 Moin zusammen,
 

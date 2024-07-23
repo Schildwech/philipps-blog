@@ -22,7 +22,7 @@ title = 'Philipps Welt'
 [[menu.main]]
     name = "Über mich"
     identifier = "about"
-    weight = 300
+    weight = 200
     url = "/about/"
 
 [[markdown]]
